@@ -56,6 +56,8 @@ Please share your target niche, campaign goals, and content requirements when co
 
 # Explore More TrustLinkSEO Resources
 
+- [How to Choose Quality Guest Posting Sites](https://github.com/TrustLinkSEO/guest-posting-guidelines/blob/main/how-to-choose-quality-guest-posting-sites.md)
+
 Looking for more SEO and digital marketing resources? Explore our guides:
 
 - [TrustLinkSEO — Company Profile](https://github.com/TrustLinkSEO/TrustLinkSEO)
