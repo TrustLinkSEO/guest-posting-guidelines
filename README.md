@@ -50,18 +50,16 @@ Acceptance, publication dates, placement availability, and search performance ca
 
 For guest posting, publisher outreach, or link-building inquiries, visit:
 
-**Website:** https://trustlinkseo.com/
+Website:https://trustlinkseo.com/
 
 Please share your target niche, campaign goals, and content requirements when contacting us.
 
-Explore More TrustLinkSEO Resources
+# Explore More TrustLinkSEO Resources
 
 Looking for more SEO and digital marketing resources? Explore our guides:
 
-TrustLinkSEO — Company Profile
-
-Guest Posting Guidelines
-
-Press Release Resources
+- [TrustLinkSEO — Company Profile](https://github.com/TrustLinkSEO/TrustLinkSEO)
+- [Guest Posting Guidelines](https://github.com/TrustLinkSEO/guest-posting-guidelines)
+- [Press Release Resources](https://github.com/TrustLinkSEO/press-release-resources)
 
 Visit our website: https://trustlinkseo.com/
